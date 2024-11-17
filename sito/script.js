@@ -1,8 +1,8 @@
 // Lista delle canzoni (in un progetto reale queste sarebbero caricate dal server)
 const songs = [
-    { title: "monotono", file: "songs/RG - monotono.wav" },
     { title: "foto mosse", file: "songs/19 Foto mosse demo 1.mp3" },
-    { title: "mood", file: "songs/19 Foto mosse demo 1.mp3" }
+    { title: "mood", file: "songs/14-Mood-master-2.mp3" },
+    { title: "monotono", file: "songs/tha-ricky-monotono.mp3" }
 ];
 
 // Elementi del DOM
