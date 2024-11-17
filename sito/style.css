@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+#songList {
+    max-width: 90%;
+    margin: auto;
+    padding: 0;
+}
+
+#songList li {
+    font-size: 1rem;
+    padding: 10px;
+}
+
+audio {
+    width: 100%;
+    max-width: 400px;
+}
